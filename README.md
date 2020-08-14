@@ -1,6 +1,6 @@
 ### Hi there, I am Marcos 👋
 
-<img src="https://github.com/marcosolvr/marcosolvr/blob/master/banner.png" alt="Marcos Oliveira">
+<img src="https://github.com/marcosolvr/marcosolvr/blob/master/new-banner.png" alt="Marcos Oliveira">
 
 <!--
 **marcosolvr/marcosolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
