@@ -2,7 +2,7 @@
 
 ## I'm Computer Science Student and Web Developer
 
-- 🔭 I’m currently working from home at [Escritório Modelo](https://github.com/escritorio-modelo)
+- 🔭 I’m currently working at [Maeztra](https://maeztra.com)
 - 🌱 I’m currently learning front-end testing
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I love to watch and play western games
