@@ -2,8 +2,8 @@
 
 ## I'm Computer Science Student and Web Developer
 
-- 🔭 I’m currently working at [Maeztra](https://maeztra.com)
-- 🌱 I’m currently learning front-end testing
+- 🔭 I’m currently working at Supernosso
+- 🌱 I’m currently learning front-end architecture
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I love to watch and play western games
 
